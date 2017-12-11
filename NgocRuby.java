@@ -1,0 +1,4 @@
+class SV{
+	int tuoi;
+	
+}
